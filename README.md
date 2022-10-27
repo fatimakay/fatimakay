@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fatimakay
 - 👀 I’m interested in web design and development
-- 🌱 I’m currently learning Javascript Structures and Algorithms
+- 🌱 I’m currently learning ReactJS
 - 📫 How to reach me: fatima.k215@gmail.com
 
 <!---
