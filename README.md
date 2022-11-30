@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning ReactJS
 - 📫 How to reach me: fatima.k215@gmail.com
 - 🚀 My porfolio: https://fatimakay.github.io 
-- 
 
 <!---
 fatimakay/fatimakay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
