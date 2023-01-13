@@ -1,4 +1,7 @@
-![Hi I'm Fatima](header.png)
+<p align="center">
+  <img src="header.png" width=700/> 
+</p>
+
 
 ### About Me
 - :mortar_board:	I'm a Computer Science graduate
