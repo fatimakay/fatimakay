@@ -11,7 +11,6 @@
 - 🚀 My porfolio: https://fatimakay.github.io  
 <br>
 
-<!--START_SECTION:activity-->
 [![Fatima's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatimakay&hide=stars,issues&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
