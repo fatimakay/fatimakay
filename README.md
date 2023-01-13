@@ -1,6 +1,9 @@
-- 👋 Hi, I’m Fatima
-- 👀 I’m interested in front-end development
-- 🌱 I’m currently learning ReactJS
+![Hi I'm Fatima](header.png)
+
+### About Me
+- :mortar_board:	I'm a Computer Science graduate
+- :heart:	 I’m passionate about front-end development
+- 🌱 I’m currently learning ReactJS and Redux
 - 📫 How to reach me: fatima.k215@gmail.com
 - 🚀 My porfolio: https://fatimakay.github.io 
 
