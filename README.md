@@ -5,8 +5,8 @@
 
 ### About Me
 - :mortar_board:	I'm a Computer Science graduate
-- :heart:	 I’m passionate about front-end development
-- 🌱 I’m currently learning ReactJS and Redux
+- :heart:	 I’m passionate about software development
+- 🌱 I’m currently learning AWS technologies
 - 📫 How to reach me: fatima.k215@gmail.com
 - 🚀 My porfolio: https://fatimakay.github.io  
 <br>
