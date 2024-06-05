@@ -6,7 +6,7 @@
 ### About Me
 - :mortar_board:	I'm a Computer Science graduate
 - :heart:	 I’m passionate about software and data
-- 🌱 I’m currently learning AWS technologies
+- 🌱 I’m currently learning Data Analysis and AWS Cloud
 - 📫 How to reach me: fatima.k215@gmail.com
 - 🚀 My porfolio: https://fatimakay.github.io  
 <br>
