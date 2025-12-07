@@ -12,7 +12,7 @@
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left" style="background: rgba(128,128,128,0.2); padding:10px; border-radius:8px;">
+<div align="left" style="background: rgba(128,128,128,0.2); padding:10px; border-radius:8px; display: inline-block;">
   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
     <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
   </a>
@@ -52,5 +52,5 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
-</p>
+</div>
 
